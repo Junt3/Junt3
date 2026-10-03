@@ -6,7 +6,7 @@ Soy Ingeniero en Sistemas de Información radicado en Ecuador, apasionado por tr
 
 *   **Lenguajes:** Python (Flask, Tkinter, PyInstaller), T-SQL
 *   **Bases de Datos & ETL:** SQL Server (SSIS, SSAS, SSRS), PostgreSQL, MySQL
-*   **Data & BI:** Data Warehousing (Modelos en Estrella), Excel avanzador
+*   **Data & BI:** Data Warehousing (Modelos en Estrella), Excel intermedio
 *   **IA & Productividad:** Prompt Engineering (Gemini, ChatGPT) para aceleración de código y análisis
 
 ### 🚀 Qué estoy haciendo ahora
